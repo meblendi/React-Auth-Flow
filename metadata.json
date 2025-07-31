@@ -1,0 +1,6 @@
+{
+  "name": "React Auth Flow Demo",
+  "description": "A responsive authentication page that fetches user data from a public API, stores it, and redirects to a protected dashboard page. Built with React, TypeScript, and Tailwind CSS.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
